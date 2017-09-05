@@ -6,3 +6,4 @@ Then run otp_enc_d [portnumber] &<br/>
 Then run otp_dec_d [portnumber] &<br/>
 Then run otp_enc [plaintext] [key] [enc_d portnumber]<br/>
 Then run otp_dec [ciphertext] [key] [dec_d portnumber]<br/>
+The plaintext files are just test files. Can accept files up to 70000 characters long
